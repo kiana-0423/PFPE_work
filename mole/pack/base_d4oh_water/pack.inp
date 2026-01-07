@@ -1,0 +1,13 @@
+tolerance 2.0
+filetype pdb
+output packed_water_base.pdb
+
+structure packed_water.pdb
+  number 1
+  inside box 2.809 8.534 12.928  21.766 18.623 17.928
+end structure
+
+structure sio.pdb
+  number 1
+  inside box 0.0 0.0 0.0  24.575 27.157 10.928
+end structure
