@@ -1,0 +1,18 @@
+tolerance 2.0
+filetype pdb
+output packed_water.pdb
+
+structure d4oh.pdb
+  number 1
+  inside box 0.0 0.0 0.0  14.0 8.0 8.0
+end structure
+
+structure water.pdb
+  number 10
+  inside box 0.0 0.0 0.0  14.0 8.0 8.0
+end structure
+
+structure o.pdb
+  number 10
+  inside box 0.0 0.0 0.0  14.0 8.0 8.0
+end structure
