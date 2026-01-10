@@ -1,0 +1,120 @@
+HEADER 
+TITLE     Built with Packmol                                             
+REMARK   Packmol generated pdb file 
+REMARK   Home-Page: http://m3g.iqm.unicamp.br/packmol
+REMARK
+ATOM      1    C MOL A   1      13.038   6.610   0.996  1.00  0.00           C  
+ATOM      2    F MOL A   1      12.701   7.820   0.434  1.00  0.00           F  
+ATOM      3    F MOL A   1      13.450   5.725   0.020  1.00  0.00           F  
+ATOM      4    F MOL A   1      14.078   6.729   1.902  1.00  0.00           F  
+ATOM      5    O MOL A   1      11.904   6.061   1.595  1.00  0.00           O  
+ATOM      6    C MOL A   1      11.394   6.889   2.590  1.00  0.00           C  
+ATOM      7    F MOL A   1      12.315   7.110   3.595  1.00  0.00           F  
+ATOM      8    F MOL A   1      11.043   8.091   2.055  1.00  0.00           F  
+ATOM      9    C MOL A   1      10.173   6.212   3.172  1.00  0.00           C  
+ATOM     10    F MOL A   1       9.616   6.965   4.158  1.00  0.00           F  
+ATOM     11    F MOL A   1       9.253   6.077   2.134  1.00  0.00           F  
+ATOM     12    C MOL A   1      10.503   4.804   3.630  1.00  0.00           C  
+ATOM     13    F MOL A   1      11.489   4.859   4.600  1.00  0.00           F  
+ATOM     14    F MOL A   1      10.980   4.038   2.586  1.00  0.00           F  
+ATOM     15    O MOL A   1       9.374   4.149   4.117  1.00  0.00           O  
+ATOM     16    C MOL A   1       9.765   2.891   4.506  1.00  0.00           C  
+ATOM     17    F MOL A   1      10.300   2.148   3.467  1.00  0.00           F  
+ATOM     18    F MOL A   1      10.819   3.042   5.418  1.00  0.00           F  
+ATOM     19    C MOL A   1       8.709   2.107   5.246  1.00  0.00           C  
+ATOM     20    O MOL A   1       7.568   1.899   4.520  1.00  0.00           O  
+ATOM     21    C MOL A   1       6.580   1.183   5.161  1.00  0.00           C  
+ATOM     22    C MOL A   1       6.099   1.843   6.426  1.00  0.00           C  
+ATOM     23    C MOL A   1       4.996   1.000   7.057  1.00  0.00           C  
+ATOM     24    O MOL A   1       3.886   0.870   6.249  1.00  0.00           O  
+ATOM     25    O MOL A   1       5.575   3.103   6.185  1.00  0.00           O  
+ATOM     26    H MOL A   1       8.504   2.627   6.204  1.00  0.00           H  
+ATOM     27    H MOL A   1       9.165   1.126   5.493  1.00  0.00           H  
+ATOM     28    H MOL A   1       5.709   1.120   4.484  1.00  0.00           H  
+ATOM     29    H MOL A   1       6.874   0.141   5.392  1.00  0.00           H  
+ATOM     30    H MOL A   1       6.879   1.926   7.209  1.00  0.00           H  
+ATOM     31    H MOL A   1       5.368  -0.007   7.342  1.00  0.00           H  
+ATOM     32    H MOL A   1       4.692   1.472   8.022  1.00  0.00           H  
+ATOM     33    H MOL A   1       3.263   1.644   6.307  1.00  0.00           H  
+ATOM     34    H MOL A   1       6.322   3.672   5.865  1.00  0.00           H  
+ATOM     35  O   MOL B   1      13.955   4.769   7.671  1.00  0.00           O  
+ATOM     36  H   MOL B   1      13.838   4.080   6.984  1.00  0.00           H  
+ATOM     37  H   MOL B   1      14.000   5.652   7.221  1.00  0.00           H  
+ATOM     38  O   MOL B   2       5.746   7.420   1.234  1.00  0.00           O  
+ATOM     39  H   MOL B   2       5.319   6.677   0.758  1.00  0.00           H  
+ATOM     40  H   MOL B   2       5.033   8.001   1.607  1.00  0.00           H  
+ATOM     41  O   MOL B   3       8.031  -0.062   3.120  1.00  0.00           O  
+ATOM     42  H   MOL B   3       7.176   0.398   2.983  1.00  0.00           H  
+ATOM     43  H   MOL B   3       8.747   0.623   3.169  1.00  0.00           H  
+ATOM     44  O   MOL B   4       0.448   3.640   5.173  1.00  0.00           O  
+ATOM     45  H   MOL B   4      -0.001   3.594   6.043  1.00  0.00           H  
+ATOM     46  H   MOL B   4       1.408   3.426   5.307  1.00  0.00           H  
+ATOM     47  O   MOL B   5       0.698   6.255   5.826  1.00  0.00           O  
+ATOM     48  H   MOL B   5       1.077   6.719   6.601  1.00  0.00           H  
+ATOM     49  H   MOL B   5       0.582   6.915   5.095  1.00  0.00           H  
+ATOM     50  O   MOL B   6       5.644   6.696   4.181  1.00  0.00           O  
+ATOM     51  H   MOL B   6       5.185   7.552   4.052  1.00  0.00           H  
+ATOM     52  H   MOL B   6       4.963   5.974   4.167  1.00  0.00           H  
+ATOM     53  O   MOL B   7       0.656   7.550   1.817  1.00  0.00           O  
+ATOM     54  H   MOL B   7       1.502   8.000   2.024  1.00  0.00           H  
+ATOM     55  H   MOL B   7       0.529   6.814   2.471  1.00  0.00           H  
+ATOM     56  O   MOL B   8       3.880   4.723   7.053  1.00  0.00           O  
+ATOM     57  H   MOL B   8       3.553   3.985   6.497  1.00  0.00           H  
+ATOM     58  H   MOL B   8       4.259   4.340   7.887  1.00  0.00           H  
+ATOM     59  O   MOL B   9      13.415   5.836   4.999  1.00  0.00           O  
+ATOM     60  H   MOL B   9      14.037   5.079   5.034  1.00  0.00           H  
+ATOM     61  H   MOL B   9      13.946   6.673   4.951  1.00  0.00           H  
+ATOM     62  O   MOL B  10       7.335   5.883   0.577  1.00  0.00           O  
+ATOM     63  H   MOL B  10       7.850   6.717   0.557  1.00  0.00           H  
+ATOM     64  H   MOL B  10       7.972   5.126   0.643  1.00  0.00           H  
+ATOM     65    O MOL C   1      13.949   4.605   2.423  1.00  0.00           O  
+ATOM     66    O MOL C   1      13.044   4.911   3.049  1.00  0.00           O  
+ATOM     67    O MOL C   2       2.846   7.443   4.335  1.00  0.00           O  
+ATOM     68    O MOL C   2       3.345   7.825   5.289  1.00  0.00           O  
+ATOM     69    O MOL C   3       3.410   1.474   4.106  1.00  0.00           O  
+ATOM     70    O MOL C   3       3.353   0.348   3.922  1.00  0.00           O  
+ATOM     71    O MOL C   4       2.754   4.069   3.699  1.00  0.00           O  
+ATOM     72    O MOL C   4       2.249   5.090   3.787  1.00  0.00           O  
+ATOM     73    O MOL C   5       0.817   1.372   5.767  1.00  0.00           O  
+ATOM     74    O MOL C   5       0.760   1.701   6.859  1.00  0.00           O  
+ATOM     75    O MOL C   6      10.503   4.891   0.368  1.00  0.00           O  
+ATOM     76    O MOL C   6      10.040   5.867  -0.003  1.00  0.00           O  
+ATOM     77    O MOL C   7       5.625   7.999   6.613  1.00  0.00           O  
+ATOM     78    O MOL C   7       6.508   7.584   6.020  1.00  0.00           O  
+ATOM     79    O MOL C   8       2.009  -0.051   6.947  1.00  0.00           O  
+ATOM     80    O MOL C   8       1.893   0.249   8.043  1.00  0.00           O  
+ATOM     81    O MOL C   9       3.093   7.992   0.481  1.00  0.00           O  
+ATOM     82    O MOL C   9       3.278   6.969   0.008  1.00  0.00           O  
+ATOM     83    O MOL C  10      13.414   2.499   2.217  1.00  0.00           O  
+ATOM     84    O MOL C  10      12.380   2.605   1.744  1.00  0.00           O  
+CONECT   35   36   37
+CONECT   36   35
+CONECT   37   35
+CONECT   38   39   40
+CONECT   39   38
+CONECT   40   38
+CONECT   41   42   43
+CONECT   42   41
+CONECT   43   41
+CONECT   44   45   46
+CONECT   45   44
+CONECT   46   44
+CONECT   47   48   49
+CONECT   48   47
+CONECT   49   47
+CONECT   50   51   52
+CONECT   51   50
+CONECT   52   50
+CONECT   53   54   55
+CONECT   54   53
+CONECT   55   53
+CONECT   56   57   58
+CONECT   57   56
+CONECT   58   56
+CONECT   59   60   61
+CONECT   60   59
+CONECT   61   59
+CONECT   62   63   64
+CONECT   63   62
+CONECT   64   62
+END
