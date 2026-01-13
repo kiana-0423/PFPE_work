@@ -1,0 +1,8 @@
+tolerance 2.0
+filetype pdb
+output packed_d4oh_d4oh.pdb
+
+structure d4oh.pdb
+  number 2
+  inside box 0.0 0.0 0.0  20.0 5.00 8.0
+end structure
